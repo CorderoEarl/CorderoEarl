@@ -36,7 +36,7 @@
 ### 📈 Power BI Projects
 - [Snack Report Using Dax](https://app.powerbi.com/view?r=eyJrIjoiYWQwZjIwNGQtNWIzZS00YTNjLTk1OTktMTE4NDZiZDhiNGE4IiwidCI6IjVlMmIzOTNjLTVjNjAtNDg4ZS1hMzcxLWRkMWU0MTJhMzBhYyIsImMiOjEwfQ%3D%3D)
 - [Soda Report for the Year 2022](https://app.powerbi.com/view?r=eyJrIjoiZTE1YmIyYjEtYTRjOS00NmEzLThkZTEtZjEzZjQ1NDE0NGIwIiwidCI6IjVlMmIzOTNjLTVjNjAtNDg4ZS1hMzcxLWRkMWU0MTJhMzBhYyIsImMiOjEwfQ%3D%3D)
-- []()
+- [Stats Report](https://app.powerbi.com/view?r=eyJrIjoiNDhkOGExOGQtMTMxMS00ZWZhLWI0MWMtMzAxODQ1OGJkYTY4IiwidCI6IjVlMmIzOTNjLTVjNjAtNDg4ZS1hMzcxLWRkMWU0MTJhMzBhYyIsImMiOjEwfQ%3D%3D)
 ### 💻 Software Engineering Design Pattern Repositories
 - [Decorator Pattern](https://github.com/CorderoEarl/decoratorPattern)
 - [Builder Pattern](https://github.com/CorderoEarl/builderPattern)

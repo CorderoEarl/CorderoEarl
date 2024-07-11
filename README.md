@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **earlcordero18@gmail.com**
 
-- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1hVIVIxiaJRPoG4RuGvjPQW0UmxB5xyS4/view?usp=sharing)
+- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1NgcUh5rdwXygUdaSDTIrSTEajAFomtKL/view?usp=sharing)
 
  ## 🎓Education
   - **New Era University - Main Branch**
